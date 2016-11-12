@@ -1,0 +1,26 @@
+{
+    "plugins": [
+        "mobi.monaca.plugins.Monaca"
+    ],
+    "framework_version": "3.5",
+    "xcode_version": "7",
+    "cordova_version": "6.2",
+    "plugin_settings": [],
+    "external_plugins": [
+        "cordova-plugin-whitelist@1.2.2",
+        "cordova-plugin-splashscreen@3.2.2",
+        "cordova-custom-config@2.0.3"
+    ],
+    "title-ja": "",
+    "title-en": "To-do",
+    "description-ja": "",
+    "description-en": "A simple To-do application",
+    "category": "User Template",
+    "platform": [
+        "android",
+        "ios",
+        "winrt",
+        "chrome"
+    ],
+    "name": "generated-1478979168-582493fa7e219341161d0ad3"
+}
